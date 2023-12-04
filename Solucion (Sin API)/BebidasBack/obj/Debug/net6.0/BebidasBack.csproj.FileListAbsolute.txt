@@ -1,0 +1,12 @@
+C:\Users\USUARIO\Documents\TUP\2do Cuatrimestre\PII\Practicas\Solucion Bebidas\BebidasBack\obj\Debug\net6.0\BebidasBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Documents\TUP\2do Cuatrimestre\PII\Practicas\Solucion Bebidas\BebidasBack\obj\Debug\net6.0\BebidasBack.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\TUP\2do Cuatrimestre\PII\Practicas\Solucion Bebidas\BebidasBack\obj\Debug\net6.0\BebidasBack.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\TUP\2do Cuatrimestre\PII\Practicas\Solucion Bebidas\BebidasBack\obj\Debug\net6.0\BebidasBack.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\TUP\2do Cuatrimestre\PII\Practicas\Solucion Bebidas\BebidasBack\bin\Debug\net6.0\BebidasBack.deps.json
+C:\Users\USUARIO\Documents\TUP\2do Cuatrimestre\PII\Practicas\Solucion Bebidas\BebidasBack\bin\Debug\net6.0\BebidasBack.dll
+C:\Users\USUARIO\Documents\TUP\2do Cuatrimestre\PII\Practicas\Solucion Bebidas\BebidasBack\bin\Debug\net6.0\BebidasBack.pdb
+C:\Users\USUARIO\Documents\TUP\2do Cuatrimestre\PII\Practicas\Solucion Bebidas\BebidasBack\obj\Debug\net6.0\BebidasBack.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Documents\TUP\2do Cuatrimestre\PII\Practicas\Solucion Bebidas\BebidasBack\obj\Debug\net6.0\BebidasBack.dll
+C:\Users\USUARIO\Documents\TUP\2do Cuatrimestre\PII\Practicas\Solucion Bebidas\BebidasBack\obj\Debug\net6.0\refint\BebidasBack.dll
+C:\Users\USUARIO\Documents\TUP\2do Cuatrimestre\PII\Practicas\Solucion Bebidas\BebidasBack\obj\Debug\net6.0\BebidasBack.pdb
+C:\Users\USUARIO\Documents\TUP\2do Cuatrimestre\PII\Practicas\Solucion Bebidas\BebidasBack\obj\Debug\net6.0\ref\BebidasBack.dll
